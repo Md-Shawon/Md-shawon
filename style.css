@@ -1,0 +1,63 @@
+body { font-family:sans-serif;
+line-height:26px;
+color:#777777;
+background-color:black;
+}
+
+.purple-color{
+color:purple;
+}
+
+.half-width{width:50%;
+float: left;
+}
+
+.side-img {width: 63%;
+padding-left:25;
+border:solid;
+color:blue;
+
+}
+
+.primary-btn{
+color:white;
+background-color:blue;
+padding:13px 42px 13px 13px;
+border-radius:20px;
+border:solid ;
+text-decoration:none;
+ }
+ .container{padding-left:5%;
+ display:inline-block; 
+ 
+ }
+ .sde-img  {width:40%;
+ float: right ;
+ border:solid;
+ color:blue;
+ }
+.color {
+color:red;
+}
+.experiences{ padding-right:220px;
+ margin:30px;
+ background-color:rgba(238,251,255);
+ 
+ border-radius:20px;
+}
+
+
+.experience-list {padding:10 ;
+border-left:1px solid rgba (137,130,247,.2);
+
+}
+.friendlist {width:50%;
+
+}
+.myfriend
+{color:blue;
+border:solid ;
+background-color:white;
+}
+
+
